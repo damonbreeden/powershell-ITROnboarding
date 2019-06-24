@@ -1,0 +1,2 @@
+AWSPowerShell.NetCore
+PSWindowsUpdate
