@@ -1,0 +1,10 @@
+{
+    "package1": {
+        "name": "AWSPowerShell.NetCore",
+		"version": ""
+    },
+    "package2": {
+        "name": "PSWindowsUpdate",
+        "version": ""
+    }
+}
